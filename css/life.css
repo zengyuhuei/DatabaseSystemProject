@@ -1,0 +1,14 @@
+
+
+.text-small {
+	font-size: 15px;
+}
+
+.cursor-ptr {
+	cursor: pointer;
+}
+
+input.form-control[type="text"] {
+	width: 80px;
+}
+
